@@ -17,8 +17,8 @@ Good luck!
 Algoritmo usando a técnica Word2Vec e Python 3 para aprender associações de um texto.
 
 - Este script está lendo um arquivo aleatório da BBC contendo muitas palavras dentro dele;
-- Estou usando a biblioteca Gensin para realizar o processamento de linguagem natural, um moderno tipo de machine learning;
-- Também usei a bibliteca Colorama para fazer o texto colorido e ficar bancana. +_+
+- Estou usando a biblioteca Gensim para realizar o processamento de linguagem natural, um moderno tipo de machine learning;
+- Também usei a biblioteca Colorama para fazer o texto colorido e ficar bancana. +_+
 
 Plug and pay, basta fazer o download e executar.
 
