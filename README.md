@@ -4,7 +4,7 @@ Algorithm using Word2Vec technique and Python 3 to learn associations from a tex
 
 - This script is reading an aleatory sample file from BBC containing many words inside it;
 - I'm using Gensim library to perform natural language processing, a modern statistical machine learning;
-- I also used the Colorama library to do colored text and be nice. +_+
+- I also used Colorama library to do colored text and be nice. +_+
 
 Plug and play, just download and do it.
 
